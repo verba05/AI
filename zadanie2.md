@@ -28,6 +28,6 @@ loves(X, Y):-
     lubi(X, Y) , ((plec(X, m) , plec(Y, k)) ; (plec(X, k) , plec(Y, m))).
 
 true_love(X, Y) :-
-    loves(X, Y) ; loves(Y, X).
+    loves(X, Y) , loves(Y, X).
     
     
