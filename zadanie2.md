@@ -1,4 +1,4 @@
-# 1.
+# Wstęp.
 plec(bartek, m).
 plec(krzysztof, m).
 plec(pawel, m).
