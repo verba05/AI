@@ -31,3 +31,10 @@ true_love(X, Y) :-
     loves(X, Y) , loves(Y, X).
     
     
+# 1.1
+a) rodzeństwo
+b) kuzyni
+c) swaci
+d) pasierb-ojczym
+e) rodzeństwo od różnych matek
+f) bratowa - brat
