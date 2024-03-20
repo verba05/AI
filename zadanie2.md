@@ -36,5 +36,5 @@ a) rodzeństwo
 b) kuzyni
 c) swaci
 d) pasierb-ojczym
-e) rodzeństwo od różnych matek
+e) rodzeństwo przyrodnie
 f) bratowa - brat
