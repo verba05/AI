@@ -38,3 +38,41 @@ c) swaci
 d) pasierb-ojczym
 e) rodzeństwo przyrodnie
 f) bratowa - brat
+
+# 2
+rodzic(jan, olek).
+rodzic(ola, olek).
+rodzic(ola, kacper).
+rodzic(jan, kacper).
+rodzic(jakub, jan).
+rodzic(grzegorz, ola).
+rodzic(ala, ola).
+rodzic(monika, jan).
+m(jan).
+m(jakub).
+m(grzegorz).
+m(olek).
+m(kacper).
+osoba(jan).
+osoba(olek).
+osoba(ola).
+osoba(jakub).
+osoba(grzegorz).
+osoba(ala).
+osoba(monika).
+osoba(kacper).
+
+k(X) :-
+    \+m(X).
+
+ojciec(X, Y) :-
+    rodzic(X,Y) , m(X) , osoba(X), osoba(Y).
+
+matka(X, Y) :-
+    rodzic(X, Y), k(X), osoba(X), osoba(Y).
+
+corka(X, Y) :-
+    k(X), rodzic(Y, X), osoba(X), osoba(Y).
+
+brat_rodzony(X, Y) :-
+    matka(Matka, X), matka(Matka, Y), ojciec(Ojciec, Y), ojciec(Ojciec, X), m(X), osoba(X), osoba(Y).
