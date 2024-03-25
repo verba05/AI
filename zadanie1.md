@@ -1,26 +1,23 @@
 # 1
-a)Wedlug mnie wypelnianie deklaracji PIT nie potrzebuje inteligencji ludzkiej poniewaz to jest zwykle wpisywanie danych.
+a) Według mnie wypełnianie deklaracji PIT nie potrzebuje inteligencji ludzkiej, ponieważ to jest zwykłe wpisywanie danych.
 
-b)Dla streszczania tekstu wymaga inteligencji od czlowieka poniewaz potrzebuje zrozumienia tresci, wyznaczenia zdan kluczowych i zbednych.
+b) Dla streszczania tekstu wymaga inteligencji od człowieka, ponieważ potrzebuje zrozumienia treści, wyznaczenia zdań kluczowych i zbędnych.
 
-c)Tlumaczenie tekstu wymaga od czlowieka duzej inteligencji aby moc sensownie tekst przetlumaczyc, biorac pod uwage roznice jezykowe i kulturowe.
+c) Tłumaczenie tekstu wymaga od człowieka dużej inteligencji, aby móc sensownie tekst przetłumaczyć, biorąc pod uwagę różnice językowe i kulturowe.
 
-d)Klasyfikacja tekstu do kategorii tematycznych tez wymaga inteligencji od czlowieka, poniewaz musimy zrozumiec tresc i wyznaczyc slowa kluczowe.
+d) Klasyfikacja tekstu do kategorii tematycznych też wymaga inteligencji od człowieka, ponieważ musimy zrozumieć treść i wyznaczyć słowa kluczowe.
 
-e)Odpowiadanie na proste pytania zadawane w języku naturalnym - wymaga zrozumienia pytania i umiejetnosci sformulowac odpowiedz co wymaga inteligencji.
+e) Odpowiadanie na proste pytania zadawane w języku naturalnym - wymaga zrozumienia pytania i umiejętności sformułowania odpowiedzi, co wymaga inteligencji.
 
-f)Układanie rozkładu jazdy transportu miejskiego nie wymaga inteligencji poniewaz morzna napisac liste instrukcji(algorytm) wedlug ktorych czlowiek bez 
-umyslowego wysilku uklasc rozklad. 
+f) Układanie rozkładu jazdy transportu miejskiego nie wymaga inteligencji, ponieważ można napisać listę instrukcji (algorytm), według której człowiek bez wysiłku umysłowego ułoży rozkład.
 
-g)Programowanie wymaga inteligencji od czlowieka poniewaz potrzebuje zrozumienia porblemu i wyznaczenia sposobu ktorym ten porblem mozna rozwiazac.
+g) Programowanie wymaga inteligencji od człowieka, ponieważ potrzebuje zrozumienia problemu i wyznaczenia sposobu, którym ten problem można rozwiązać.
 
-h)„Programowanie” kanałów telewizyjnych - tez nie potrzebuje inteligencji od czlowieka, poniewaz inteligencja morze byc zamieniona na instrukcje wedlug ktorych czlowiek 
-bedzie "programowac" kanaly telewizyjne.
+h) „Programowanie” kanałów telewizyjnych - też nie potrzebuje inteligencji od człowieka, ponieważ inteligencja może być zamieniona na instrukcje, według których człowiek będzie "programować" kanały telewizyjne.
 
-i)Komponowanie muzyki - wymaga duzej inteligencji i wiedzy teorii muzyki, aby potrafic stworzyc melodie jako taka.
+i) Komponowanie muzyki - wymaga dużej inteligencji i wiedzy teorii muzyki, aby potrafić stworzyć melodię jako taką.
 
-j)Kierowanie samochodem - wymaga umiejetnosci rozumienia dystansu, szybkiego i optymalnego myslenia w sytuacjach krytycznych, 
-a takze umiejetnosci przystosowywac sie do drogi, wiec wymaga to zadanie od czlowieka duzej inteligencji. 
+j) Kierowanie samochodem - wymaga umiejętności rozumienia dystansu, szybkiego i optymalnego myślenia w sytuacjach krytycznych, a także umiejętności przystosowywania się do drogi, więc wymaga to zadanie od człowieka dużej inteligencji.
 # 2
 Wedlug mnie to bedzie:
 
@@ -35,17 +32,13 @@ pod warunkiem ze ona ma dostep do bazy danych gdie miesci sie odpowiedz na dane 
 • kierowanie samochodem(jest to mozliwe, pod warunkiem ze umowy drogi i podruzy ciagle sa idealne, co w sumie jest niemozliwe, 
 wiec AI potrafi kierowac samochod tylko w warunkach specjalnie zaprogramowanych).
 # 3
-• Rozmowa towarzyska - moze byc imitowana, ale moga pojawic sie trudnosci,
-poniewaz czlowiek moze urzyc slow nie potocznych, albo AI nie rozrurzni emocjalnego zabarwienia powiadomienia wiec da zla odpowiedz.
+• Rozmowa towarzyska - może być imitowana, ale mogą pojawić się trudności, ponieważ człowiek może użyć słów niepotocznych, a sztuczna inteligencja może nie rozróżnić emocjonalnego zabarwienia wypowiedzenia,co może prowadzić do błędnych odpowiedzi.
 
-• Dyskusja polityczna, dyskusja naukowa - tez morze byc zimitowana przez AI, pod warunkiem jezeli on ma wiedze na takie tematy. 
-Mowiac o dyskusji jako takiej, to musimy jeszcze zaprogramowac pewna opinie dla sztucznej inteligencji aby ta dyskusja miala sens.
+• Dyskusja polityczna, dyskusja naukowa - też może być imitowana przez sztuczną inteligencję, pod warunkiem że ta dysponuje odpowiednią wiedzą na temat. Jednakże, aby dyskusja miała sens, konieczne jest także zaprogramowanie pewnej opinii dla sztucznej inteligencji.
 
-• Odpowiadanie na pytania klientów w telefonicznej infolinii - bardzo latwo moze byc zimitowana przez AI, i niektore firmy juz wykorzystuja go w tych celach. 
-Ale warto powiedziec ze AI moze zle zrozumiec klienta, straktowac to po swemu i dac zly wynik dzialania.
+• Odpowiadanie na pytania klientów w telefonicznej infolinii - bardzo łatwo może być zimitowana przez AI, i niektóre firmy już wykorzystują go w tych celach. Jednak warto zaznaczyć, że sztuczna inteligencja może źle zrozumieć klienta, interpretować to po swojemu i udzielić błędnej odpowiedzi.
 
-•Odpowiadanie na pytania klientów w internetowej infolinii - poniewaz juz mamy czat-boty to mozemy latwo to zimitowac dadzac odpowiednie instrukcje oraz baze danych zeby 
-on dawal dobra odpowiedz zaleznie od pytania.
+• Odpowiadanie na pytania klientów w internetowej infolinii - ponieważ już mamy chat-boty , możemy łatwo to zimitować, dodając odpowiednie instrukcje oraz bazę danych, aby udzielał dobrych odpowiedzi zależnie od pytania.
 # 4
 
 a)Bot imitujący człowieka będzie się śmiać z żartu, podczas gdy bot asystent będzie zaczynał ten żart wyjaśniać.
