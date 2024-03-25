@@ -59,31 +59,31 @@ h)Bot asystent często trzyma się poprzednich tematów, aby mieć kontekst, pod
 
 i)Bot asystent będzie lepiej radził sobie z utrzymaniem wątków, podczas gdy bot imitator może mieć z tym problem i zacznie mówić o czymś zupełnie innym.
 
-Bot a:
+## Bot a:
 Hello.
 
-Bot b:
+## Bot b:
 Hello! How can I assist you today?
 
-Bot a:
+## Bot a:
 Hello! Thank you for reaching out. How can I assist you today?
 
-Bot b:
+## Bot b:
 You're welcome! I'm here to help. What do you need assistance with?
 
-Bot a:
+## Bot a:
 As an AI developed by OpenAI, I'm here to assist you with a wide range of topics. Whether you have questions, need information, want to brainstorm ideas, require assistance with a task, or simply want to engage in conversation, feel free to let me know how I can help!
 
-Bot b:
+## Bot b:
 Thank you for your willingness to assist! If you have any questions, need information, want to brainstorm ideas, require assistance with a task, or just want to chat about anything at all, feel free to let me know. I'm here to help with whatever you need!
 
-Bot a:
+## Bot a:
 Thank you for your offer! It's great to have such a helpful attitude. If you have any specific questions, need information, or want to discuss any topic, feel free to let me know. I'm here to assist you with whatever you need!
 
-Bot b:
+## Bot b:
 Thank you for your kind words! I appreciate your openness to assistance as well. If there's anything specific you'd like to discuss or inquire about, feel free to let me know. Otherwise, I'm here to engage in conversation or provide information on a wide range of topics. Just let me know how I can assist you!
 
-Bot a:
+## Bot a:
 Thank you for your openness as well! Since you're leaving the conversation open-ended, I'd like to discuss a topic related to technology and its impact on society. Specifically, I'm interested in discussing the ethical considerations surrounding the development and use of artificial intelligence.
 
 Artificial intelligence has the potential to bring about significant benefits, such as improving efficiency, automating tasks, and advancing scientific research. However, it also raises important ethical questions regarding issues like privacy, bias, job displacement, and autonomous decision-making.
@@ -106,7 +106,7 @@ These are just a few of the ethical considerations surrounding AI, and each rais
 
 What are your thoughts on these issues, and is there any specific aspect you'd like to explore further? Additionally, if there's another topic you'd like to discuss, feel free to let me know!
 
-Bot b:
+## Bot b:
 Thank you for elaborating on those key aspects of the ethical considerations surrounding artificial intelligence (AI). Each of these issues indeed requires careful consideration and proactive measures to address effectively. Here are some thoughts on each aspect:
 
 Privacy: Protecting user data is crucial in AI development. Techniques such as data anonymization, encryption, and implementing privacy-preserving algorithms can help safeguard sensitive information while still allowing AI systems to function effectively.
